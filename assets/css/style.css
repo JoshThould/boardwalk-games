@@ -67,6 +67,10 @@ h2 {
     color: white;
 }
 
+/* take rounded corners off buttons */
+.custom-button-events {
+    border-radius: 0 !important;
+}
 /* Navbar */
 
 #navbar {
